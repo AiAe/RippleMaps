@@ -1,5 +1,5 @@
 {
-    "username": "",
-    "password": "",
-    "osu_api_key": ""
+    "token": "",
+    "beatmap_channel": "",
+    "request_channel": ""
 }
